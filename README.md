@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Anjali Rajpoot
 
-<!--
-**anjali-0806/anjali-0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communication Engineering Student @ NIT Srinagar
 
-Here are some ideas to get you started:
+💻 Aspiring RTL Design Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Interests
+- VLSI Design
+- RTL Design
+- Verilog
+- Digital Design
+- Computer Architecture
+
+### 🌱 Currently Learning
+- Hardware Modeling using Verilog
+- RTL Design
+- Digital System Design
+
+### 🚀 Goals
+Building hands-on digital design projects and developing strong skills for a career in VLSI and semiconductor technology.

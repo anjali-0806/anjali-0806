@@ -2,7 +2,7 @@
 
 🎓 Electronics & Communication Engineering Student @ NIT Srinagar
 
-💻 Aspiring RTL Design Engineer
+💻 Passionate About RTL Design & VLSI
 
 ### 🔧 Interests
 - VLSI Design
